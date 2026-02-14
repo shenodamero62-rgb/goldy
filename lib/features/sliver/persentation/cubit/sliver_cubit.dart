@@ -1,5 +1,4 @@
 import 'package:bloc/bloc.dart';
-import 'package:goldy/features/gold/data/repo/gold_repo.dart';
 import 'package:goldy/features/sliver/data/repo/sliver_repo.dart';
 import 'package:goldy/features/sliver/persentation/cubit/sliver_states.dart';
 

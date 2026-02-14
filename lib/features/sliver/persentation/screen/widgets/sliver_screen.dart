@@ -4,7 +4,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:gap/gap.dart';
 import 'package:goldy/core/constants/app_images.dart';
 import 'package:goldy/core/constants/app_strings.dart';
-import 'package:goldy/features/gold/data/repo/gold_repo.dart';
 import 'package:goldy/features/gold/persentation/screen/widgets/custom_text.dart';
 import 'package:goldy/features/sliver/data/repo/sliver_repo.dart';
 import 'package:goldy/features/sliver/persentation/cubit/sliver_cubit.dart';
